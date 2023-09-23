@@ -1,0 +1,11 @@
+.user_card {
+    border: 2px dashed pink;
+    border-radius: 15px;
+    padding: 10px;
+  }
+  
+  .user_card img {
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+  }

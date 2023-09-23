@@ -1,0 +1,20 @@
+.add_todo_form input {
+  border: 1px solid gray;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 7px;
+}
+
+.add_todo_form button {
+  border-color: transparent;
+  background-color: green;
+  color: white;
+  padding: 10px;
+  border-radius: 7px;
+  width: 150px;
+  font-size: 18px;
+}
+
+.add_todo_form {
+  margin: 30px 0;
+}
